@@ -41,9 +41,5 @@ public class Reaberto implements EstadoChamado {
         System.out.println("Operação negada");
     }
 
-    @Override
-    public void aguardar(Chamado chamado) {
-        System.out.println("Operação negada");
-    }
 }
 
